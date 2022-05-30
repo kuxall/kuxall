@@ -18,20 +18,10 @@ I am a self taught ML Practitioner, trying to solve real-world problems using AI
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-            alt="python" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-            alt="html5" />
-    </a>
-    <a href="https://www.spacy.io/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/-Scrapy-blue" alt="spacy" />
-    </a>
-    <a href="https://www.prodi.gy/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/-Prodi.gy-white" alt="prodigy" />
-    </a>
+   <img height="30" alt="Python" src="https://img.shields.io/badge/python-3E6963?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="30" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-295952?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img height="30" alt="Numpy" src="https://img.shields.io/badge/Numpy-245049?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img height="30" alt="Pandas" src="https://img.shields.io/badge/Pandas-204741?style=for-the-badge&logo=pandas&logoColor=white"/>
  </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuxall&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kushal GitHub's Stats" />
