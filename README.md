@@ -6,6 +6,13 @@ I am a self taught ML Practitioner, trying to solve real-world problems using AI
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
+Software dev with a focus on ML and AI
+
+🌱 Learning Python, TensorFlow, and NLP
+💻 Working as an CAIO in Sherpa.Codes
+💬 Noobies at ML and NLP 
+📫 Feel free to reach me at trevorward001@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://fb.com/kushal.pythonist" target="_blank"><img align="center"
