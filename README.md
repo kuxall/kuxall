@@ -11,7 +11,7 @@ Practitioner with a focus on ML and AI
 🌱 Learning Python, TensorFlow, and NLP  
 💻 Working as an CAIO in Sherpa.Codes  
 💬 Noobies at ML and NLP   
-📫 Feel free to reach me at trevorward001@gmail.com
+📫 Feel free to reach me at kuxall0@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
