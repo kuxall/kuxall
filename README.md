@@ -1,4 +1,6 @@
 ### Hello there, Kushal here.. 👋  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuxall&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
+
 
 I am a self taught ML Practitioner, trying to solve real-world problems using AI  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
