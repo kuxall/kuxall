@@ -12,6 +12,7 @@ Practitioner with a focus on ML and AI
 - 💻 Working as an CAIO in Sherpa.Codes  
 - 💬 Noobies at ML and NLP   
 - 📫 Feel free to reach me at kuxall0@gmail.com
+- 📫 Visit Here: https://www.whoispythonist.me/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
