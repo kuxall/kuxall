@@ -31,6 +31,8 @@ Practitioner with a focus on ML and AI
   <img height="30" alt="Numpy" src="https://img.shields.io/badge/Numpy-245049?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img height="30" alt="Pandas" src="https://img.shields.io/badge/Pandas-204741?style=for-the-badge&logo=pandas&logoColor=white"/>
  </p>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?kuxall=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuxall&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kushal GitHub's Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuxall&layout=compact&theme=material-palenight" />
