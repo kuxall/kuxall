@@ -7,7 +7,5 @@
   <a href="www.whoispythonist.me"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
 
-👨 **Profile Stat**
-    
-<img src="https://visitor-badge.glitch.me/badge?page_id=kuxall.kuxall" alt="Visitors Counter">
-
+## 👨 A Frustrated Machine Learning Guy 👨 
+Visit Here: [Portfolio](https://kuxall.github.io)
