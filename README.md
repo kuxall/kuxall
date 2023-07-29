@@ -7,4 +7,4 @@
 </p>
 
 ## 👨 A Frustrated Machine Learning Guy 👨 
-Visit Here:<br> <center> <a href="www.whoispythonist.me"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a> </center>
+Visit Here:<br> <center> <a href="https://kuxall.github.io/"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a> </center>
