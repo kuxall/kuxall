@@ -1,7 +1,6 @@
 ### Hey👋, I'm __Kushal Raj Sharma__ 
 <table>
 <tr><a href = "#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kuxall&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a><tr></tr>
-<tr> <td> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kuxall&theme=nord"></a></td>
 <td><a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuxall&theme=nord_dark"></a></td>
     </table>
 <p>
